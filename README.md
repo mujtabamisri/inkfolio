@@ -2,6 +2,7 @@
 
 **A free, local-first handwriting and notebook-layout studio.** Turn pasted text and imported documents into notebook-style pages, adjust handwritten lines independently, and export PNGs or PDFs.
 
+**Live Demo**: [https://mujtabamisri.github.io/inkfolio/](url)
 
 ## Features
 
