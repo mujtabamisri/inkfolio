@@ -7,7 +7,6 @@
 Try Inkfolio Studio directly in your browser:
 
 **[🚀 Launch Inkfolio Studio](https://mujtabamisri.github.io/inkfolio/)**
->>>>>>> f26d87e (Fix live demo link in README)
 
 ## Features
 
