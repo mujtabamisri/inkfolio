@@ -1,0 +1,30 @@
+{
+  "name": "inkfolio-studio",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^6.3.5",
+    "pdfjs-dist": "^5.4.149",
+    "jspdf": "^3.0.3",
+    "lucide": "^0.468.0",
+    "@fontsource/caveat": "^5.2.6",
+    "@fontsource/patrick-hand": "^5.2.6",
+    "@fontsource/indie-flower": "^5.2.6",
+    "@fontsource/dancing-script": "^5.2.6",
+    "@fontsource/gloria-hallelujah": "^5.2.6",
+    "@fontsource/kalam": "^5.2.6",
+    "@fontsource/handlee": "^5.2.6",
+    "@fontsource/architects-daughter": "^5.2.6",
+    "@fontsource/shadows-into-light": "^5.2.6",
+    "@fontsource/nanum-pen-script": "^5.2.6",
+    "@fontsource/reenie-beanie": "^5.2.6",
+    "tesseract.js": "^6.0.1"
+  },
+  "devDependencies": {}
+}
